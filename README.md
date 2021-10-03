@@ -1,3 +1,6 @@
+### SSO with jwt
+
+
 # A simple implementation of single sign-on (SSO) central authorization unit and client in 500 lines of Node.js
 
 ### Important
